@@ -1,4 +1,4 @@
-## Como criar Integrar front e banco com docker 
+## Como integrar front e banco de dados com docker 
 
 ### Fazer pull das images
 
