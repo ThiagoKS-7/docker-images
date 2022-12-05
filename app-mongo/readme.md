@@ -3,6 +3,7 @@
 ### Fazer pull das images
 
 docker pull mongo:4.4.6
+
 docker pull aluradocker/alura-books:1.0
 
 ### Criar network
