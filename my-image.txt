@@ -1,0 +1,1 @@
+docker run --name mongo-img -p 27017:27017  -v /home/thiago/Linux/docker/mongo-img/database:/data/db nooky7/mongo:1
