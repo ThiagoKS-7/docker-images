@@ -1,4 +1,6 @@
-<img width="320px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<div align="center">
+  <img width="320px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+</div>
 # Docker Images 
 
 ## Table of Contents
